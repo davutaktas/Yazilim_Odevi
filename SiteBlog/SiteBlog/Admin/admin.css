@@ -1,0 +1,108 @@
+﻿body {
+
+    background-color:#e1e1e1;  /*arka plan rengi verme*/
+
+}
+
+/*tüm sayfada boşlukları kaldırmak için yeni bir css tanımımı*/
+*  {
+
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    padding:0;
+    margin-left: 0px;
+    margin-right: 0;
+    }
+
+a {
+
+    text-decoration:none;
+    color:#2a595c;
+}
+
+a:hover {
+
+    color:#3b7e82;
+}
+
+.butonGorsel{
+    background-color:#2a595c;
+     color:#fff;
+}
+.butonGorsel:hover{
+    background-color:#3199a0;
+     
+}
+
+.textboxGor{
+     border:1px dotted #2a595c;
+}
+
+.dropdownlistGorsel{
+    border:1px dotted #2a595c;
+    height:25px;
+     width:auto;
+}
+
+.kutu {
+     
+     width:1000px; /*daha fazla yapınca ekranı küçük olan tarayıcılarda sıkıntı oluyor*/
+     height:1000px;
+     margin:0 auto; /*1000px in fazlasını ortalıcak*/
+}
+
+.kutu .slider {
+    width:1000px;
+    height:100px;
+    float:left;   /*en soldan başlasın sleder*/
+    background-color:#2a595c;  
+}
+
+
+.kutu .govde {
+    width:1000px;
+    height:auto;
+    float:left;
+    margin-top:20px;
+}
+
+.kutu .govde .govdesol {
+    width:270px;
+    height:auto;
+    float:left;
+   
+} 
+    .kutu .govde .govdesol .govdesolbaslik {
+       width:100%;
+       height:30px;
+       float:left;
+       background-color:#2a595c;
+        border:1px double #2a595c;
+        color:white;
+        line-height:30px;
+     }
+
+     .kutu .govde .govdesol .govdesolicerik {
+         width:100%;
+         height:auto;
+         float:left;
+         border:1px dotted #2a595c;
+     }
+
+
+.kutu .govde .govdesag {
+    width:700px;
+    height:auto;
+    float:right;
+    border:1px dotted #2a595c;  /* noktalı kenar oluşturma*/
+}
+
+.kutu .altmenu {
+    width:100%;
+    height:40px;
+    float:left;
+    background-color:#2a595c;
+    margin-top:20px;
+
+}

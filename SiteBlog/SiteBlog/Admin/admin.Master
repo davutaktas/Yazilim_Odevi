@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.Master.cs" Inherits="SiteBlog.Admin.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="admin.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+  <div class="kutu">
+        <div class="slider"></div>
+        <div class="govde">
+            <div class="govdesol" style="margin-left:0px;">
+                <div class="govdesolbaslik">&nbsp; MENULER</div>
+                <div class="govdesolicerik">
+                    <div style="height:25px; color:#2a595c; font-weight:bolder; margin-top:3px; margin-left:3px;background-image:url(../Temalar/indir.jpg); background-repeat:repeat-x;"><a href="duyurular.aspx";> -Duyurular </a> </div>
+                    <div style="height:25px; color:#2a595c; font-weight:bolder; margin-top:3px; background-image:url(../Temalar/indir.jpg); background-repeat:repeat-x;"><a href="kategoriler.aspx";> -Kategoriler </a> </div>
+                    <div style="height:25px; color:#2a595c; font-weight:bolder; margin-top:3px; background-image:url(../Temalar/indir.jpg); background-repeat:repeat-x;"><a href="makaleler.aspx";> -Makaleler </a> </div>
+                    <div style="height:25px; color:#2a595c; font-weight:bolder; margin-top:3px; background-image:url(../Temalar/indir.jpg); background-repeat:repeat-x;"><a href="yorumlar.aspx";> -Yorumlar </a> </div>
+                    <div style="height:25px; color:#2a595c; font-weight:bolder; margin-top:3px; background-image:url(../Temalar/indir.jpg); background-repeat:repeat-x;"><a href="iletisim.aspx";> -İletişim </a> </div>
+                </div>
+                   
+            </div>
+            <div class="govdesag">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+       </div>
+        <%--<div class="altmenu"></div>  --%>
+    </div>
+    </form>
+</body>
+</html>

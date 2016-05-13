@@ -1,0 +1,20 @@
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.dll.config
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.dll
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.pdb
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.csprojResolveAssemblyReference.cache
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.dll
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.pdb
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\bin\CKEditor.NET.dll
+C:\Users\Yaşar\Desktop\Staj Defteri Saldemsoft\Site Blog\SiteBlog\SiteBlog\bin\CKEditor.NET.pdb
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.dll
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.pdb
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\bin\CKEditor.NET.pdb
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.dll
+C:\Users\Lenovo\Desktop\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.pdb
+G:\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.dll
+G:\Site Blog\SiteBlog\SiteBlog\bin\SiteBlog.pdb
+G:\Site Blog\SiteBlog\SiteBlog\bin\CKEditor.NET.pdb
+G:\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.csprojResolveAssemblyReference.cache
+G:\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.dll
+G:\Site Blog\SiteBlog\SiteBlog\obj\Debug\SiteBlog.pdb
